@@ -26,4 +26,8 @@
 	tool = Kaleidoscope
 [core]
 	quotepath = false
-	editor = /usr/bin/vim
+	editor = vim
+[push]
+	default = simple
+[color]
+	ui = true

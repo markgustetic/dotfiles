@@ -1,9 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/markgustetic/Programming/clinic/MyHealthWeb/app/models'
-let g:netrw_dirhist_2='/Users/markgustetic/Programming/clinic/MyHealthWeb/app/views/organization_configurations'
-let g:netrw_dirhist_3='/Users/markgustetic/Programming/clinic/MyHealthWeb/app/services'
-let g:netrw_dirhist_4='/Users/markgustetic/go/src/MyHealthAPI/functions'
-let g:netrw_dirhist_5='/Users/markgustetic/Programming/clinic/MyHealthWeb/app/services'
-let g:netrw_dirhist_6='/Users/markgustetic/Programming/clinic/MyHealthWeb/app/views/organization_configurations'
-let g:netrw_dirhist_7='/Users/markgustetic/go/src/MyHealthAPI/functions'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/markgustetic/Programming/clinic/MyHealthWeb/app/views/layouts'
+let g:netrw_dirhist_2='/Users/markgustetic/go/src/MyHealthAPI/constants'
+let g:netrw_dirhist_3='/Users/markgustetic/Programming/clinic/myhealth-ruby/lib/myhealth'
+let g:netrw_dirhist_4='/Users/markgustetic/.vim'
